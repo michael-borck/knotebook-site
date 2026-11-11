@@ -1,23 +1,10 @@
 # Knotebook site
 
-Built app/player for [Knotebook](https://github.com/michael-borck/Knotebook).
+Generated site for <https://knotebook.borck.education/>.
 
-This repo is **generated**: it contains the Vite build of the app, deployed to
-GitHub Pages. Do not edit files here by hand.
+- Landing page — `/`
+- App / player — `/app/`
 
-- App: https://michael-borck.github.io/knotebook-site/
-- Player: https://michael-borck.github.io/knotebook-site/?player=1
-- Store: https://michael-borck.github.io/knotebook-store/
-
-## Build and publish
-
-From the main repo:
-
-```bash
-PAGES_BASE=/knotebook-site/ npm run build
-rm -rf ../knotebook-site/assets ../knotebook-site/icons
-cp -R dist/. ../knotebook-site/
-git -C ../knotebook-site add -A
-git -C ../knotebook-site commit -m "deploy"
-git -C ../knotebook-site push
-```
+Do not edit this repo by hand. The source lives in the main
+[Knotebook](https://github.com/michael-borck/Knotebook) repo: `landing/` for this
+page and the Vite build for the app. Pushes to `main` publish automatically.
