@@ -1,7 +1,7 @@
 const RELEASE_API =
-  'https://api.github.com/repos/michael-borck/Knotebook/releases/latest'
+  'https://api.github.com/repos/michael-borck/knotebook/releases/latest'
 const RELEASE_PAGE =
-  'https://github.com/michael-borck/Knotebook/releases/latest'
+  'https://github.com/michael-borck/knotebook/releases/latest'
 const CACHE_KEY = 'knotebook.latestRelease'
 
 function pick(assets, test) {
