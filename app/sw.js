@@ -1,5 +1,5 @@
 /* Knotebook offline shell. Bump CACHE when the shell changes. */
-const CACHE = 'knotebook-v1'
+const CACHE = 'knotebook-v2'
 const SHELL = ['./', './index.html', './manifest.webmanifest']
 
 self.addEventListener('install', (event) => {
@@ -44,6 +44,24 @@ self.addEventListener('fetch', (event) => {
             (await caches.match(request)) ||
             (await caches.match('./index.html')) ||
             new Response('Offline', { status: 503 }),
+        ),
+    )
+    return
+  }
+
+  if (url.pathname.endsWith('.json')) {
+    event.respondWith(
+      fetch(request)
+        .then((response) => {
+          if (response.ok) {
+            const copy = response.clone()
+            caches.open(CACHE).then((cache) => cache.put(request, copy))
+          }
+          return response
+        })
+        .catch(
+          async () =>
+            (await caches.match(request)) || new Response('Offline', { status: 503 }),
         ),
     )
     return
