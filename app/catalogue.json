@@ -1,7 +1,7 @@
 {
   "format": "knotebook-catalogue",
   "version": 1,
-  "generated": "2026-11-17T02:23:08.325Z",
+  "generated": "2026-11-17T02:53:31.477Z",
   "publicKey": "oueMhcTC2rw/7cxgAVsws6msxx7EYGKG0hw0fmhZ4wE=",
   "packs": [
     {
@@ -10,11 +10,12 @@
       "author": "Knotebook",
       "theme": "noir",
       "release": "1.0.0",
-      "sha256": "712ff5377fc36a96f3a9e3d7d7f60b3d85bedefce769fbdaf79894d45e3ff969",
+      "sha256": "d5f5cc97e19ce2ecc5f3170cd10d034f7073b16c1515c641f7adfa67ac6dffe6",
       "url": "the-lantern-keepers.knotebook.json",
       "description": "A short noir story about a bell under the harbour.",
       "licence": "CC BY 4.0",
-      "signature": "mwdRRPVvh8SLtYLmkKtgRygcdeFfbrZyYS71hExuWeCLW0OBYHq63aGlqxyBmt4+P63NyRfWtnklEpTnrZUrDA=="
+      "cover": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGUwZjEzIi8+Cgo8Y2lyY2xlIGN4PSI0NzAiIGN5PSI3OCIgcj0iNDQiIGZpbGw9IiNkNmEzNTQiIG9wYWNpdHk9IjAuMTgiLz4KPGNpcmNsZSBjeD0iNDcwIiBjeT0iNzgiIHI9IjI1IiBmaWxsPSIjZDZhMzU0IiBvcGFjaXR5PSIwLjQ1Ii8+CjxwYXRoIGQ9Ik0wIDI1MCBRMTUwIDIyOCAzMDAgMjUwIFQ2MDAgMjUwIFYzNjAgSDBaIiBmaWxsPSIjZDZhMzU0IiBvcGFjaXR5PSIwLjA4Ii8+CjxwYXRoIGQ9Ik0wIDI4MiBRMTUwIDI2MCAzMDAgMjgyIFQ2MDAgMjgyIiBmaWxsPSJub25lIiBzdHJva2U9IiNkNmEzNTQiIHN0cm9rZS13aWR0aD0iMiIgb3BhY2l0eT0iMC4zIi8+CjxyZWN0IHg9IjEwNSIgeT0iMTcwIiB3aWR0aD0iNTgiIGhlaWdodD0iODIiIHJ4PSI3IiBmaWxsPSIjMTAxMTE3IiBzdHJva2U9IiNkNmEzNTQiIHN0cm9rZS13aWR0aD0iMyIvPgo8cmVjdCB4PSIxMTgiIHk9IjE4OCIgd2lkdGg9IjMyIiBoZWlnaHQ9IjQ2IiBmaWxsPSIjZDZhMzU0IiBvcGFjaXR5PSIwLjUiLz4KPGNpcmNsZSBjeD0iMTM0IiBjeT0iMjExIiByPSIyNiIgZmlsbD0iI2Q2YTM1NCIgb3BhY2l0eT0iMC4xMCIvPgoKPHRleHQgeD0iNDQiIHk9IjMxMiIgZmlsbD0iI2Q2YTM1NCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQwIj5UaGUgTGFudGVybiBLZWVwZXJzPC90ZXh0Pgo8dGV4dCB4PSI0NCIgeT0iMzQwIiBmaWxsPSIjOWE5N2E4IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNiI+S25vdGVib29rIGRlbW88L3RleHQ+Cjwvc3ZnPg==",
+      "signature": "SPUmd0Ld7OfauZPji4QhC3QHXBVyBVw+LXcyfPcfmNlquHIGwOUiURThB3mtfXvbAQR+FtYbEsaiWPMPheKkBQ=="
     },
     {
       "id": "the-clockwork-court",
@@ -22,11 +23,12 @@
       "author": "Knotebook",
       "theme": "kingdom",
       "release": "1.0.0",
-      "sha256": "09b09d0fe27d7a7873b1a1d83a15be1360d1c99fb714a4d8b37557a940b75556",
+      "sha256": "712006e46058cf2876e075633f8170cbda6802b63d76472a625b207316b6f716",
       "url": "the-clockwork-court.knotebook.json",
       "description": "A court that remembers every slight.",
       "licence": "CC BY 4.0",
-      "signature": "SJ+BrcmiC13ZWx7O2d+lqsCdeEI14A89zskRCpwHfKiTBhcYX3KDi/WVZ2tc6r2lzEl/JAJEWeAoMSdeG5fUDA=="
+      "cover": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMTIxMDE3Ii8+Cgo8Y2lyY2xlIGN4PSIxMzAiIGN5PSIxMTAiIHI9IjQ2IiBmaWxsPSJub25lIiBzdHJva2U9IiNlMGI2M2MiIHN0cm9rZS13aWR0aD0iNSIgb3BhY2l0eT0iMC44Ii8+CjxjaXJjbGUgY3g9IjEzMCIgY3k9IjExMCIgcj0iMTgiIGZpbGw9IiNlMGI2M2MiIG9wYWNpdHk9IjAuNSIvPgo8Y2lyY2xlIGN4PSI0NzAiIGN5PSIxNDAiIHI9IjM0IiBmaWxsPSJub25lIiBzdHJva2U9IiNlMGI2M2MiIHN0cm9rZS13aWR0aD0iNCIgb3BhY2l0eT0iMC42Ii8+CjxjaXJjbGUgY3g9IjQ3MCIgY3k9IjE0MCIgcj0iMTIiIGZpbGw9IiNlMGI2M2MiIG9wYWNpdHk9IjAuNCIvPgo8cGF0aCBkPSJNMjQwIDI1MCBWMTYwIEgyODAgVjI1MCBNMzIwIDI1MCBWMTIwIEgzNjAgVjI1MCBNNDAwIDI1MCBWMTgwIEg0NDAgVjI1MCIgZmlsbD0iI2UwYjYzYyIgb3BhY2l0eT0iMC4xOCIgc3Ryb2tlPSIjZTBiNjNjIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTAgMjUwIEg2MDAiIHN0cm9rZT0iI2UwYjYzYyIgc3Ryb2tlLXdpZHRoPSIyIiBvcGFjaXR5PSIwLjUiLz4KCjx0ZXh0IHg9IjQ0IiB5PSIzMTIiIGZpbGw9IiNlMGI2M2MiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSI0MCI+VGhlIENsb2Nrd29yayBDb3VydDwvdGV4dD4KPHRleHQgeD0iNDQiIHk9IjM0MCIgZmlsbD0iIzlhOTdhOCIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTYiPktub3RlYm9vayBkZW1vPC90ZXh0Pgo8L3N2Zz4=",
+      "signature": "UEJKBOo2vt39XTivn+9+qTcqEFDt9bw2AIZVeiXAWQVN3VUwGrZws6Br49mgShSe+3d+6uZRRDUPbbjl/dUECw=="
     },
     {
       "id": "neon-rain",
@@ -34,11 +36,12 @@
       "author": "Knotebook",
       "theme": "cyberpunk",
       "release": "1.0.0",
-      "sha256": "21accf5d2758ba1eb707c006cc716d51ed22b7a6d60dd1d7a014c8420f620b19",
+      "sha256": "18015528ebde004a5e29f7e7e9d16872e78a0f3bb601268a0e637a5cc5ad88c3",
       "url": "neon-rain.knotebook.json",
       "description": "A looping cyberpunk alley that always calls you back.",
       "licence": "CC BY 4.0",
-      "signature": "hOO2y67D9mTRBOD7pxV7kn1NAF/nH78g4CvsVQEc3aWwshpiYbNqRHQg96Dv8zcFNT2dAduZdePlJL+sw+SpCA=="
+      "cover": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGIwYjEyIi8+Cgo8cGF0aCBkPSJNMCAyNTAgVjE1MCBINjAgVjI1MCBNODAgMjUwIFYxMTAgSDE0MCBWMjUwIE0xNjAgMjUwIFYxNzAgSDIxMCBWMjUwIE0yMzAgMjUwIFY5MCBIMzAwIFYyNTAgTTMyMCAyNTAgVjE0MCBIMzgwIFYyNTAgTTQwMCAyNTAgVjEyMCBINDcwIFYyNTAgTTQ5MCAyNTAgVjE3MCBINTUwIFYyNTAgTTU3MCAyNTAgVjE0MCBINjAwIFYyNTAiIGZpbGw9IiNmZjUyZTEiIG9wYWNpdHk9IjAuMTQiLz4KPHBhdGggZD0iTTcwIDEzMCBIMTIwIE0yNTAgODAgSDI5MCBNNDEwIDEzMCBINDYwIiBzdHJva2U9IiNmZjUyZTEiIHN0cm9rZS13aWR0aD0iNCIgb3BhY2l0eT0iMC42Ii8+CjxnIHN0cm9rZT0iI2ZmNTJlMSIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjAuMzUiPgo8cGF0aCBkPSJNNjAgNDAgTDMwIDEyMCBNMTQwIDIwIEwxMTAgMTAwIE0yMjAgNDAgTDE5MCAxMjAgTTMwMCAyMCBMMjcwIDEwMCBNMzgwIDQwIEwzNTAgMTIwIE00NjAgMjAgTDQzMCAxMDAgTTU0MCA0MCBMNTEwIDEyMCIvPgo8L2c+Cgo8dGV4dCB4PSI0NCIgeT0iMzEyIiBmaWxsPSIjZmY1MmUxIiBmb250LWZhbWlseT0iR2VvcmdpYSwgc2VyaWYiIGZvbnQtc2l6ZT0iNDAiPk5lb24gUmFpbjwvdGV4dD4KPHRleHQgeD0iNDQiIHk9IjM0MCIgZmlsbD0iIzlhOTdhOCIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTYiPktub3RlYm9vayBkZW1vPC90ZXh0Pgo8L3N2Zz4=",
+      "signature": "c0g5N+RWzxDZDSzyyoZ/o/9d1gEFtbg24AeC+B1/WgUGU4e+xHyxYCmRjBT5urQeuUpJ2MXqM22aFJ3CgExQBg=="
     },
     {
       "id": "the-drowned-bell",
@@ -46,11 +49,12 @@
       "author": "Knotebook",
       "theme": "nautical",
       "release": "1.0.0",
-      "sha256": "60694f3f1db6e93610d726083ae7794e86e03884aebaa0dd986433d4d9f8906c",
+      "sha256": "bac452a3c8c2724cd884512819fc43c65f949ec007f67e8307df3fffe3301845",
       "url": "the-drowned-bell.knotebook.json",
       "description": "A short nautical scene on a shingle beach.",
       "licence": "CC BY 4.0",
-      "signature": "SeKRVKmcuUq4tErPJ4qthz1DiAdEOob03XZbeO4bCNkT1cQkwfqoEMmB35llfC3ENrHX2Q/f1FbTWSb7a4AvDg=="
+      "cover": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGIxMTE3Ii8+Cgo8cGF0aCBkPSJNMCAyMzAgUTgwIDIwMCAxNjAgMjMwIFQzMjAgMjMwIFQ0ODAgMjMwIFQ2MDAgMjMwIFYzNjAgSDBaIiBmaWxsPSIjMzhiZGY4IiBvcGFjaXR5PSIwLjEyIi8+CjxwYXRoIGQ9Ik0wIDI2NSBRODAgMjM1IDE2MCAyNjUgVDMyMCAyNjUgVDQ4MCAyNjUgVDYwMCAyNjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzM4YmRmOCIgc3Ryb2tlLXdpZHRoPSIzIiBvcGFjaXR5PSIwLjM1Ii8+CjxwYXRoIGQ9Ik0zMDAgMTIwIFEzNDAgMTYwIDM0MCAyMDUgSDI2MCBRMjYwIDE2MCAzMDAgMTIwWiIgZmlsbD0iIzM4YmRmOCIgb3BhY2l0eT0iMC40IiBzdHJva2U9IiMzOGJkZjgiIHN0cm9rZS13aWR0aD0iMyIvPgo8Y2lyY2xlIGN4PSIzMDAiIGN5PSIyMjAiIHI9IjgiIGZpbGw9IiMzOGJkZjgiIG9wYWNpdHk9IjAuNyIvPgoKPHRleHQgeD0iNDQiIHk9IjMxMiIgZmlsbD0iIzM4YmRmOCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQwIj5UaGUgRHJvd25lZCBCZWxsPC90ZXh0Pgo8dGV4dCB4PSI0NCIgeT0iMzQwIiBmaWxsPSIjOWE5N2E4IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNiI+S25vdGVib29rIGRlbW88L3RleHQ+Cjwvc3ZnPg==",
+      "signature": "nZJ13JgYTIRMvkU01qPgpgmsCq7aMTba44NoIrFcCYdptODbiUNfeO9qtqMwlmPXg+K2/9x+4q169OCDl8h+Bg=="
     },
     {
       "id": "the-hollow-house",
@@ -58,11 +62,12 @@
       "author": "Knotebook",
       "theme": "gothic",
       "release": "1.0.0",
-      "sha256": "8f1db1aea0d6d4be482c82ca9918ef5db77b63d494d900665e0a02ba7551f709",
+      "sha256": "005ab17801f8a5dff45a76eab6717ab1c0081ca389a14e750455d7e603b869c1",
       "url": "the-hollow-house.knotebook.json",
       "description": "A house whose hall is longer than the house.",
       "licence": "CC BY 4.0",
-      "signature": "y9qXs0G9c6Bk0JCm8pkLZXutP8VXMUErT1djqJkmZ/JOk3PW28i94WgUsol6uvLn19uDlTK81TeEN3gqNqyEAA=="
+      "cover": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGYwYzEyIi8+Cgo8cGF0aCBkPSJNMTUwIDI1MCBWMTQwIEwzMDAgNjAgTDQ1MCAxNDAgVjI1MFoiIGZpbGw9IiNiMDZhYjMiIG9wYWNpdHk9IjAuMTQiIHN0cm9rZT0iI2IwNmFiMyIgc3Ryb2tlLXdpZHRoPSIzIi8+CjxyZWN0IHg9IjIxMCIgeT0iMTY1IiB3aWR0aD0iNDIiIGhlaWdodD0iNDgiIGZpbGw9IiNiMDZhYjMiIG9wYWNpdHk9IjAuMzUiLz4KPHJlY3QgeD0iMzQ4IiB5PSIxNjUiIHdpZHRoPSI0MiIgaGVpZ2h0PSI0OCIgZmlsbD0iI2IwNmFiMyIgb3BhY2l0eT0iMC4zNSIvPgo8cmVjdCB4PSIyODAiIHk9IjE5NSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjU1IiBmaWxsPSIjMTAxMTE3IiBzdHJva2U9IiNiMDZhYjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMzAwIDYwIFY0MCIgc3Ryb2tlPSIjYjA2YWIzIiBzdHJva2Utd2lkdGg9IjMiLz4KCjx0ZXh0IHg9IjQ0IiB5PSIzMTIiIGZpbGw9IiNiMDZhYjMiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSI0MCI+VGhlIEhvbGxvdyBIb3VzZTwvdGV4dD4KPHRleHQgeD0iNDQiIHk9IjM0MCIgZmlsbD0iIzlhOTdhOCIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTYiPktub3RlYm9vayBkZW1vPC90ZXh0Pgo8L3N2Zz4=",
+      "signature": "Lh64pUFVD/RvDfoFDUF9IMhdCOCAW3rO+PbY3u2SqfUJELJ58PTMWDJnUqQo2CwXWuDPJgHm42ziSaXbS7xODA=="
     },
     {
       "id": "signal-from-europa",
@@ -70,11 +75,12 @@
       "author": "Knotebook",
       "theme": "space",
       "release": "1.0.0",
-      "sha256": "9012a14e3cbd93153d3afa02defd2bc229af08b147933e31ff286009a6418134",
+      "sha256": "2cd4d0f4980696a8da45c4ac1beaf68590beb40be324ed0bf786754d335a85a2",
       "url": "signal-from-europa.knotebook.json",
       "description": "A repeating signal under the ice.",
       "licence": "CC BY 4.0",
-      "signature": "8Ob34gKZzrBg7VNT6WAz7sO+2cse8E4M/iNT51FOvsJROVF3oX05UHgnWIw76h2C4wOg/u5gqn7krOKnRpIBDw=="
+      "cover": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGEwZDE4Ii8+Cgo8Y2lyY2xlIGN4PSI0MjAiIGN5PSIxMzAiIHI9Ijg2IiBmaWxsPSIjYTc4YmZhIiBvcGFjaXR5PSIwLjE2Ii8+CjxjaXJjbGUgY3g9IjQyMCIgY3k9IjEzMCIgcj0iODYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2E3OGJmYSIgc3Ryb2tlLXdpZHRoPSIzIiBvcGFjaXR5PSIwLjU1Ii8+CjxwYXRoIGQ9Ik0zNTAgMTAwIEwzOTAgMTIwIEwzNzAgMTUwIEw0MjAgMTcwIEw0NTAgMTQwIEw0OTAgMTU1IiBmaWxsPSJub25lIiBzdHJva2U9IiNhNzhiZmEiIHN0cm9rZS13aWR0aD0iMiIgb3BhY2l0eT0iMC42Ii8+CjxnIGZpbGw9IiNhNzhiZmEiIG9wYWNpdHk9IjAuNiI+CjxjaXJjbGUgY3g9IjkwIiBjeT0iNjAiIHI9IjMiLz48Y2lyY2xlIGN4PSIxNTAiIGN5PSIxMDAiIHI9IjIiLz48Y2lyY2xlIGN4PSIyMzAiIGN5PSI1MCIgcj0iMyIvPjxjaXJjbGUgY3g9IjMwMCIgY3k9IjkwIiByPSIyIi8+PGNpcmNsZSBjeD0iNTQwIiBjeT0iNzAiIHI9IjIiLz4KPC9nPgoKPHRleHQgeD0iNDQiIHk9IjMxMiIgZmlsbD0iI2E3OGJmYSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQwIj5TaWduYWwgZnJvbSBFdXJvcGE8L3RleHQ+Cjx0ZXh0IHg9IjQ0IiB5PSIzNDAiIGZpbGw9IiM5YTk3YTgiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjE2Ij5Lbm90ZWJvb2sgZGVtbzwvdGV4dD4KPC9zdmc+",
+      "signature": "8m6BYDgLzGWonBTCCqOvh0ADx+wyddgl4Xt316wichYjm9RKs+1pACyg4ra4xrXmjdaWxW+bF7eHukMXVQ7iBQ=="
     }
   ]
 }
