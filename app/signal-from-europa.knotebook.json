@@ -1,0 +1,23 @@
+{
+  "format": "knotebook-pack",
+  "version": 1,
+  "release": "1.0.0",
+  "id": "signal-from-europa",
+  "title": "Signal from Europa",
+  "author": "Knotebook",
+  "licence": "CC BY 4.0",
+  "description": "A repeating signal under the ice.",
+  "theme": "space",
+  "created": "2026-11-17T02:23:08.298Z",
+  "cover": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGEwZDE4Ii8+CjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzMjAiIHJ4PSIxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYTc4YmZhIiBzdHJva2Utd2lkdGg9IjMiLz4KPHRleHQgeD0iNDQiIHk9IjE1MCIgZmlsbD0iI2E3OGJmYSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQ0Ij5TaWduYWwgZnJvbSBFdXJvcGE8L3RleHQ+Cjx0ZXh0IHg9IjQ0IiB5PSIxOTgiIGZpbGw9IiM5YTk3YTgiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjE4Ij5Lbm90ZWJvb2sgZGVtbzwvdGV4dD4KPC9zdmc+",
+  "assets": {
+    "assets/cover.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGEwZDE4Ii8+CjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzMjAiIHJ4PSIxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYTc4YmZhIiBzdHJva2Utd2lkdGg9IjMiLz4KPHRleHQgeD0iNDQiIHk9IjE1MCIgZmlsbD0iI2E3OGJmYSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQ0Ij5TaWduYWwgZnJvbSBFdXJvcGE8L3RleHQ+Cjx0ZXh0IHg9IjQ0IiB5PSIxOTgiIGZpbGw9IiM5YTk3YTgiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjE4Ij5Lbm90ZWJvb2sgZGVtbzwvdGV4dD4KPC9zdmc+"
+  },
+  "stories": [
+    {
+      "id": "main",
+      "title": "Signal from Europa",
+      "json": "{\"inkVersion\":21,\"root\":[[\"#\",\"^title: Signal from Europa\",\"/#\",\"#\",\"^author: Knotebook\",\"/#\",{\"->\":\"bridge\"},[\"done\",{\"#n\":\"g-0\"}],null],\"done\",{\"bridge\":[[\"#\",\"^group: act1\",\"/#\",\"^The signal repeats every eleven seconds.\",\"\\n\",\"ev\",\"str\",\"^Answer\",\"/str\",\"/ev\",{\"*\":\".^.c-0\",\"flg\":20},\"ev\",\"str\",\"^Log it and wait\",\"/str\",\"/ev\",{\"*\":\".^.c-1\",\"flg\":20},{\"c-0\":[\"^ \",{\"->\":\"answer\"},\"\\n\",{\"#f\":5}],\"c-1\":[\"^ \",{\"->\":\"wait\"},\"\\n\",{\"#f\":5}]}],null],\"answer\":[\"ev\",{\"VAR?\":\"trust\"},1,\"+\",{\"VAR=\":\"trust\",\"re\":true},\"/ev\",\"^The signal answers in your own voice.\",\"\\n\",\"end\",null],\"wait\":[\"^The signal stops.\",\"\\n\",\"end\",null],\"global decl\":[\"ev\",0,{\"VAR=\":\"trust\"},\"/ev\",\"end\",null]}],\"listDefs\":{}}"
+    }
+  ]
+}

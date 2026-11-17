@@ -1,7 +1,7 @@
 {
   "format": "knotebook-catalogue",
   "version": 1,
-  "generated": "2026-11-11T02:53:58.433Z",
+  "generated": "2026-11-17T02:23:08.325Z",
   "publicKey": "oueMhcTC2rw/7cxgAVsws6msxx7EYGKG0hw0fmhZ4wE=",
   "packs": [
     {
@@ -10,11 +10,71 @@
       "author": "Knotebook",
       "theme": "noir",
       "release": "1.0.0",
-      "sha256": "eabd72ec43e8336afdeab55205d40f5a1003cb2d0bcd2e29ae1ab4db50fc26d3",
-      "url": "sample.knotebook.json",
-      "description": "Demo pack generated from the sample story.",
+      "sha256": "712ff5377fc36a96f3a9e3d7d7f60b3d85bedefce769fbdaf79894d45e3ff969",
+      "url": "the-lantern-keepers.knotebook.json",
+      "description": "A short noir story about a bell under the harbour.",
       "licence": "CC BY 4.0",
-      "signature": "K8OduUeigjDlX1FQcM4ibypl0182kH/8BZF4oiPQq5u3KI0qyv2+rnyHdRI7wj8Z+VVmg4YC7S877WsNDjQ/DA=="
+      "signature": "mwdRRPVvh8SLtYLmkKtgRygcdeFfbrZyYS71hExuWeCLW0OBYHq63aGlqxyBmt4+P63NyRfWtnklEpTnrZUrDA=="
+    },
+    {
+      "id": "the-clockwork-court",
+      "title": "The Clockwork Court",
+      "author": "Knotebook",
+      "theme": "kingdom",
+      "release": "1.0.0",
+      "sha256": "09b09d0fe27d7a7873b1a1d83a15be1360d1c99fb714a4d8b37557a940b75556",
+      "url": "the-clockwork-court.knotebook.json",
+      "description": "A court that remembers every slight.",
+      "licence": "CC BY 4.0",
+      "signature": "SJ+BrcmiC13ZWx7O2d+lqsCdeEI14A89zskRCpwHfKiTBhcYX3KDi/WVZ2tc6r2lzEl/JAJEWeAoMSdeG5fUDA=="
+    },
+    {
+      "id": "neon-rain",
+      "title": "Neon Rain",
+      "author": "Knotebook",
+      "theme": "cyberpunk",
+      "release": "1.0.0",
+      "sha256": "21accf5d2758ba1eb707c006cc716d51ed22b7a6d60dd1d7a014c8420f620b19",
+      "url": "neon-rain.knotebook.json",
+      "description": "A looping cyberpunk alley that always calls you back.",
+      "licence": "CC BY 4.0",
+      "signature": "hOO2y67D9mTRBOD7pxV7kn1NAF/nH78g4CvsVQEc3aWwshpiYbNqRHQg96Dv8zcFNT2dAduZdePlJL+sw+SpCA=="
+    },
+    {
+      "id": "the-drowned-bell",
+      "title": "The Drowned Bell",
+      "author": "Knotebook",
+      "theme": "nautical",
+      "release": "1.0.0",
+      "sha256": "60694f3f1db6e93610d726083ae7794e86e03884aebaa0dd986433d4d9f8906c",
+      "url": "the-drowned-bell.knotebook.json",
+      "description": "A short nautical scene on a shingle beach.",
+      "licence": "CC BY 4.0",
+      "signature": "SeKRVKmcuUq4tErPJ4qthz1DiAdEOob03XZbeO4bCNkT1cQkwfqoEMmB35llfC3ENrHX2Q/f1FbTWSb7a4AvDg=="
+    },
+    {
+      "id": "the-hollow-house",
+      "title": "The Hollow House",
+      "author": "Knotebook",
+      "theme": "gothic",
+      "release": "1.0.0",
+      "sha256": "8f1db1aea0d6d4be482c82ca9918ef5db77b63d494d900665e0a02ba7551f709",
+      "url": "the-hollow-house.knotebook.json",
+      "description": "A house whose hall is longer than the house.",
+      "licence": "CC BY 4.0",
+      "signature": "y9qXs0G9c6Bk0JCm8pkLZXutP8VXMUErT1djqJkmZ/JOk3PW28i94WgUsol6uvLn19uDlTK81TeEN3gqNqyEAA=="
+    },
+    {
+      "id": "signal-from-europa",
+      "title": "Signal from Europa",
+      "author": "Knotebook",
+      "theme": "space",
+      "release": "1.0.0",
+      "sha256": "9012a14e3cbd93153d3afa02defd2bc229af08b147933e31ff286009a6418134",
+      "url": "signal-from-europa.knotebook.json",
+      "description": "A repeating signal under the ice.",
+      "licence": "CC BY 4.0",
+      "signature": "8Ob34gKZzrBg7VNT6WAz7sO+2cse8E4M/iNT51FOvsJROVF3oX05UHgnWIw76h2C4wOg/u5gqn7krOKnRpIBDw=="
     }
   ]
 }

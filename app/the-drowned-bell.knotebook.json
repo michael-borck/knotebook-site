@@ -1,0 +1,23 @@
+{
+  "format": "knotebook-pack",
+  "version": 1,
+  "release": "1.0.0",
+  "id": "the-drowned-bell",
+  "title": "The Drowned Bell",
+  "author": "Knotebook",
+  "licence": "CC BY 4.0",
+  "description": "A short nautical scene on a shingle beach.",
+  "theme": "nautical",
+  "created": "2026-11-17T02:23:08.283Z",
+  "cover": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGIxMTE3Ii8+CjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzMjAiIHJ4PSIxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzhiZGY4IiBzdHJva2Utd2lkdGg9IjMiLz4KPHRleHQgeD0iNDQiIHk9IjE1MCIgZmlsbD0iIzM4YmRmOCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQ0Ij5UaGUgRHJvd25lZCBCZWxsPC90ZXh0Pgo8dGV4dCB4PSI0NCIgeT0iMTk4IiBmaWxsPSIjOWE5N2E4IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCI+S25vdGVib29rIGRlbW88L3RleHQ+Cjwvc3ZnPg==",
+  "assets": {
+    "assets/cover.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGIxMTE3Ii8+CjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzMjAiIHJ4PSIxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzhiZGY4IiBzdHJva2Utd2lkdGg9IjMiLz4KPHRleHQgeD0iNDQiIHk9IjE1MCIgZmlsbD0iIzM4YmRmOCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQ0Ij5UaGUgRHJvd25lZCBCZWxsPC90ZXh0Pgo8dGV4dCB4PSI0NCIgeT0iMTk4IiBmaWxsPSIjOWE5N2E4IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCI+S25vdGVib29rIGRlbW88L3RleHQ+Cjwvc3ZnPg=="
+  },
+  "stories": [
+    {
+      "id": "main",
+      "title": "The Drowned Bell",
+      "json": "{\"inkVersion\":21,\"root\":[[\"#\",\"^title: The Drowned Bell\",\"/#\",\"#\",\"^author: Knotebook\",\"/#\",{\"->\":\"shore\"},[\"done\",{\"#n\":\"g-0\"}],null],\"done\",{\"shore\":[[\"#\",\"^group: act1\",\"/#\",\"#\",\"^note: A short nautical scene.\",\"/#\",\"^The tide has left a bell half-buried in the shingle.\",\"\\n\",\"ev\",\"str\",\"^Dig it up\",\"/str\",\"/ev\",{\"*\":\".^.c-0\",\"flg\":20},\"ev\",\"str\",\"^Leave it\",\"/str\",\"/ev\",{\"*\":\".^.c-1\",\"flg\":20},{\"c-0\":[\"^ \",{\"->\":\"dig\"},\"\\n\",{\"#f\":5}],\"c-1\":[\"^ \",{\"->\":\"leave\"},\"\\n\",{\"#f\":5}]}],null],\"dig\":[\"^The bell is warm. It rings once, underwater.\",\"\\n\",\"end\",null],\"leave\":[\"^You walk on. Behind you, the bell rings once.\",\"\\n\",\"end\",null]}],\"listDefs\":{}}"
+    }
+  ]
+}

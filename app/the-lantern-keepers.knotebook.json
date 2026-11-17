@@ -1,0 +1,23 @@
+{
+  "format": "knotebook-pack",
+  "version": 1,
+  "release": "1.0.0",
+  "id": "the-lantern-keepers",
+  "title": "The Lantern Keepers",
+  "author": "Knotebook",
+  "licence": "CC BY 4.0",
+  "description": "A short noir story about a bell under the harbour.",
+  "theme": "noir",
+  "created": "2026-11-17T02:23:08.255Z",
+  "cover": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGUwZjEzIi8+CjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzMjAiIHJ4PSIxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDZhMzU0IiBzdHJva2Utd2lkdGg9IjMiLz4KPHRleHQgeD0iNDQiIHk9IjE1MCIgZmlsbD0iI2Q2YTM1NCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQ0Ij5UaGUgTGFudGVybiBLZWVwZXJzPC90ZXh0Pgo8dGV4dCB4PSI0NCIgeT0iMTk4IiBmaWxsPSIjOWE5N2E4IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCI+S25vdGVib29rIGRlbW88L3RleHQ+Cjwvc3ZnPg==",
+  "assets": {
+    "assets/cover.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGUwZjEzIi8+CjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzMjAiIHJ4PSIxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDZhMzU0IiBzdHJva2Utd2lkdGg9IjMiLz4KPHRleHQgeD0iNDQiIHk9IjE1MCIgZmlsbD0iI2Q2YTM1NCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQ0Ij5UaGUgTGFudGVybiBLZWVwZXJzPC90ZXh0Pgo8dGV4dCB4PSI0NCIgeT0iMTk4IiBmaWxsPSIjOWE5N2E4IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCI+S25vdGVib29rIGRlbW88L3RleHQ+Cjwvc3ZnPg=="
+  },
+  "stories": [
+    {
+      "id": "main",
+      "title": "The Lantern Keepers",
+      "json": "{\"inkVersion\":21,\"root\":[[\"#\",\"^title: The Lantern Keepers\",\"/#\",\"#\",\"^author: Knotebook\",\"/#\",{\"->\":\"start\"},[\"done\",{\"#n\":\"g-0\"}],null],\"done\",{\"start\":[[\"^The tide has gone out, leaving the harbour grey and quiet. Somewhere below the pier, a bell is ringing underwater.\",\"\\n\",\"#\",\"^bg: harbour-dusk\",\"/#\",\"ev\",\"str\",\"^Climb down to the water\",\"/str\",\"/ev\",{\"*\":\".^.c-0\",\"flg\":4},\"ev\",\"str\",\"^Follow the bell along the shore\",\"/str\",\"/ev\",{\"*\":\".^.c-1\",\"flg\":4},{\"c-0\":[\"^ \",{\"->\":\"climb\"},\"\\n\",null],\"c-1\":[\"^ \",{\"->\":\"shore\"},\"\\n\",null]}],null],\"climb\":[[\"ev\",{\"VAR?\":\"courage\"},1,\"+\",{\"VAR=\":\"courage\",\"re\":true},\"/ev\",\"^You lower yourself down the weed-slick ladder. The bell is louder here, and the water is breathing.\",\"\\n\",\"#\",\"^sfx: water\",\"/#\",\"ev\",\"str\",\"^Reach into the dark\",\"/str\",\"/ev\",{\"*\":\".^.c-0\",\"flg\":20},\"ev\",\"str\",\"^Climb back up\",\"/str\",\"/ev\",{\"*\":\".^.c-1\",\"flg\":20},{\"c-0\":[\"^ \",{\"->\":\"reach\"},\"\\n\",{\"#f\":5}],\"c-1\":[\"^ \",{\"->\":\"start\"},\"\\n\",{\"#f\":5}]}],null],\"shore\":[[\"^You pick your way along the shingle. A lantern lies half-buried in the sand, its glass unbroken.\",\"\\n\",\"#\",\"^image: lantern-on-shingle\",\"/#\",\"ev\",true,\"/ev\",{\"VAR=\":\"lantern\",\"re\":true},\"ev\",\"str\",\"^Pick up the lantern\",\"/str\",\"/ev\",{\"*\":\".^.c-0\",\"flg\":4},\"ev\",\"str\",\"^Leave it and keep walking\",\"/str\",\"/ev\",{\"*\":\".^.c-1\",\"flg\":4},{\"c-0\":[\"^ \",{\"->\":\"keep\"},\"\\n\",null],\"c-1\":[\"^ \",{\"->\":\"walk\"},\"\\n\",null]}],null],\"reach\":[\"ev\",{\"VAR?\":\"courage\"},0,\">\",\"/ev\",[{\"->\":\".^.b\",\"c\":true},{\"b\":[\"^ You steel yourself and reach in. \",{\"->\":\"reach.7\"},null]}],[{\"->\":\".^.b\"},{\"b\":[\"^ You hesitate, then reach in. \",{\"->\":\"reach.7\"},null]}],\"nop\",\"\\n\",\"^Your fingers close around something cold and patient.\",\"\\n\",\"end\",null],\"keep\":[[\"^You lift the lantern. It is warm, as if someone set it down a moment ago.\",\"\\n\",\"ev\",\"str\",\"^Light it\",\"/str\",\"/ev\",{\"*\":\".^.c-0\",\"flg\":4},\"ev\",\"str\",\"^Take it back to the harbour\",\"/str\",\"/ev\",{\"*\":\".^.c-1\",\"flg\":4},{\"c-0\":[\"^ \",{\"->\":\"light\"},\"\\n\",null],\"c-1\":[\"^ \",\"end\",\"\\n\",null]}],null],\"walk\":[\"^The bell stops. The shore is very quiet now.\",\"\\n\",\"end\",null],\"light\":[\"^The wick catches. For a moment the whole bay is gold.\",\"\\n\",\"#\",\"^anim: glow\",\"/#\",\"end\",null],\"global decl\":[\"ev\",0,{\"VAR=\":\"courage\"},false,{\"VAR=\":\"lantern\"},\"/ev\",\"end\",null]}],\"listDefs\":{}}"
+    }
+  ]
+}

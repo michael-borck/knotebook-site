@@ -6,9 +6,13 @@
   "title": "The Lantern Keepers",
   "author": "Knotebook",
   "licence": "CC BY 4.0",
-  "description": "Demo pack generated from the sample story.",
+  "description": "A short noir story about a bell under the harbour.",
   "theme": "noir",
-  "created": "2026-11-11T02:53:58.422Z",
+  "created": "2026-11-17T02:23:08.255Z",
+  "cover": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGUwZjEzIi8+CjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzMjAiIHJ4PSIxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDZhMzU0IiBzdHJva2Utd2lkdGg9IjMiLz4KPHRleHQgeD0iNDQiIHk9IjE1MCIgZmlsbD0iI2Q2YTM1NCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQ0Ij5UaGUgTGFudGVybiBLZWVwZXJzPC90ZXh0Pgo8dGV4dCB4PSI0NCIgeT0iMTk4IiBmaWxsPSIjOWE5N2E4IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCI+S25vdGVib29rIGRlbW88L3RleHQ+Cjwvc3ZnPg==",
+  "assets": {
+    "assets/cover.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGUwZjEzIi8+CjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzMjAiIHJ4PSIxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDZhMzU0IiBzdHJva2Utd2lkdGg9IjMiLz4KPHRleHQgeD0iNDQiIHk9IjE1MCIgZmlsbD0iI2Q2YTM1NCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQ0Ij5UaGUgTGFudGVybiBLZWVwZXJzPC90ZXh0Pgo8dGV4dCB4PSI0NCIgeT0iMTk4IiBmaWxsPSIjOWE5N2E4IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCI+S25vdGVib29rIGRlbW88L3RleHQ+Cjwvc3ZnPg=="
+  },
   "stories": [
     {
       "id": "main",

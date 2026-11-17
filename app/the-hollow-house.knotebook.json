@@ -1,0 +1,23 @@
+{
+  "format": "knotebook-pack",
+  "version": 1,
+  "release": "1.0.0",
+  "id": "the-hollow-house",
+  "title": "The Hollow House",
+  "author": "Knotebook",
+  "licence": "CC BY 4.0",
+  "description": "A house whose hall is longer than the house.",
+  "theme": "gothic",
+  "created": "2026-11-17T02:23:08.290Z",
+  "cover": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGYwYzEyIi8+CjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzMjAiIHJ4PSIxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYjA2YWIzIiBzdHJva2Utd2lkdGg9IjMiLz4KPHRleHQgeD0iNDQiIHk9IjE1MCIgZmlsbD0iI2IwNmFiMyIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQ0Ij5UaGUgSG9sbG93IEhvdXNlPC90ZXh0Pgo8dGV4dCB4PSI0NCIgeT0iMTk4IiBmaWxsPSIjOWE5N2E4IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCI+S25vdGVib29rIGRlbW88L3RleHQ+Cjwvc3ZnPg==",
+  "assets": {
+    "assets/cover.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGYwYzEyIi8+CjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzMjAiIHJ4PSIxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYjA2YWIzIiBzdHJva2Utd2lkdGg9IjMiLz4KPHRleHQgeD0iNDQiIHk9IjE1MCIgZmlsbD0iI2IwNmFiMyIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQ0Ij5UaGUgSG9sbG93IEhvdXNlPC90ZXh0Pgo8dGV4dCB4PSI0NCIgeT0iMTk4IiBmaWxsPSIjOWE5N2E4IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCI+S25vdGVib29rIGRlbW88L3RleHQ+Cjwvc3ZnPg=="
+  },
+  "stories": [
+    {
+      "id": "main",
+      "title": "The Hollow House",
+      "json": "{\"inkVersion\":21,\"root\":[[\"#\",\"^title: The Hollow House\",\"/#\",\"#\",\"^author: Knotebook\",\"/#\",{\"->\":\"hall\"},[\"done\",{\"#n\":\"g-0\"}],null],\"done\",{\"hall\":[[\"#\",\"^group: act1\",\"/#\",\"^The hall is longer than the house.\",\"\\n\",\"ev\",\"str\",\"^Open the door\",\"/str\",\"/ev\",{\"*\":\".^.c-0\",\"flg\":20},\"ev\",\"str\",\"^Climb the stairs\",\"/str\",\"/ev\",{\"*\":\".^.c-1\",\"flg\":20},{\"c-0\":[\"^ \",{\"->\":\"door\"},\"\\n\",{\"#f\":5}],\"c-1\":[\"^ \",{\"->\":\"stairs\"},\"\\n\",{\"#f\":5}]}],null],\"door\":[\"ev\",true,\"/ev\",{\"VAR=\":\"doorOpen\",\"re\":true},\"^The door opens onto the same hall.\",\"\\n\",{\"->\":\"hall\"},null],\"stairs\":[\"^The stairs go up and arrive at the hall.\",\"\\n\",{\"->\":\"hall\"},null],\"global decl\":[\"ev\",false,{\"VAR=\":\"doorOpen\"},\"/ev\",\"end\",null]}],\"listDefs\":{}}"
+    }
+  ]
+}

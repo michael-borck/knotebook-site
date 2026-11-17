@@ -1,0 +1,24 @@
+{
+  "format": "knotebook-pack",
+  "version": 1,
+  "release": "1.0.0",
+  "id": "neon-rain",
+  "title": "Neon Rain",
+  "author": "Knotebook",
+  "licence": "CC BY 4.0",
+  "description": "A looping cyberpunk alley that always calls you back.",
+  "theme": "cyberpunk",
+  "created": "2026-11-17T02:23:08.277Z",
+  "cover": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGIwYjEyIi8+CjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzMjAiIHJ4PSIxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmY1MmUxIiBzdHJva2Utd2lkdGg9IjMiLz4KPHRleHQgeD0iNDQiIHk9IjE1MCIgZmlsbD0iI2ZmNTJlMSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQ0Ij5OZW9uIFJhaW48L3RleHQ+Cjx0ZXh0IHg9IjQ0IiB5PSIxOTgiIGZpbGw9IiM5YTk3YTgiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjE4Ij5Lbm90ZWJvb2sgZGVtbzwvdGV4dD4KPC9zdmc+",
+  "assets": {
+    "assets/cover.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGIwYjEyIi8+CjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzMjAiIHJ4PSIxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmY1MmUxIiBzdHJva2Utd2lkdGg9IjMiLz4KPHRleHQgeD0iNDQiIHk9IjE1MCIgZmlsbD0iI2ZmNTJlMSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjQ0Ij5OZW9uIFJhaW48L3RleHQ+Cjx0ZXh0IHg9IjQ0IiB5PSIxOTgiIGZpbGw9IiM5YTk3YTgiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjE4Ij5Lbm90ZWJvb2sgZGVtbzwvdGV4dD4KPC9zdmc+",
+    "assets/scene.svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgNjAwIDM2MCI+CjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYwIiBmaWxsPSIjMGIwYjEyIi8+CjxnIHN0cm9rZT0iI2ZmNTJlMSIgc3Ryb2tlLXdpZHRoPSIzIiBvcGFjaXR5PSIwLjgiPgo8cGF0aCBkPSJNNjAgMzAwIEwxODAgMTIwIEwzMDAgMzAwIFoiIGZpbGw9Im5vbmUiLz4KPHBhdGggZD0iTTIyMCAzMDAgTDM0MCA5MCBMNDYwIDMwMCBaIiBmaWxsPSJub25lIi8+CjxwYXRoIGQ9Ik0zODAgMzAwIEw1MDAgMTQwIEw1NjAgMzAwIFoiIGZpbGw9Im5vbmUiLz4KPC9nPgo8Y2lyY2xlIGN4PSI0NzAiIGN5PSI4MCIgcj0iMjYiIGZpbGw9IiNmZjUyZTEiIG9wYWNpdHk9IjAuMzUiLz4KPC9zdmc+"
+  },
+  "stories": [
+    {
+      "id": "main",
+      "title": "Neon Rain",
+      "json": "{\"inkVersion\":21,\"root\":[[\"#\",\"^title: Neon Rain\",\"/#\",\"#\",\"^author: Knotebook\",\"/#\",{\"->\":\"start\"},[\"done\",{\"#n\":\"g-0\"}],null],\"done\",{\"start\":[[\"#\",\"^group: act2\",\"/#\",\"#\",\"^note: A loop for testing: the signal always calls you back.\",\"/#\",\"#\",\"^image: assets/scene.svg\",\"/#\",\"^Rain falls upward in the alley behind the noodle bar.\",\"\\n\",\"ev\",\"str\",\"^Follow the signal\",\"/str\",\"/ev\",{\"*\":\".^.c-0\",\"flg\":20},\"ev\",\"str\",\"^Walk away\",\"/str\",\"/ev\",{\"*\":\".^.c-1\",\"flg\":20},{\"c-0\":[\"^ \",{\"->\":\"signal\"},\"\\n\",{\"#f\":5}],\"c-1\":[\"^ \",{\"->\":\"walk\"},\"\\n\",{\"#f\":5}]}],null],\"signal\":[\"ev\",{\"VAR?\":\"signalStrength\"},1,\"+\",{\"VAR=\":\"signalStrength\",\"re\":true},\"/ev\",\"^The sign flickers: SAY MY NAME.\",\"\\n\",\"^The alley folds back on itself.\",\"\\n\",{\"->\":\"start\"},null],\"walk\":[\"^You walk until the rain is only weather again.\",\"\\n\",\"end\",null],\"global decl\":[\"ev\",0,{\"VAR=\":\"signalStrength\"},\"/ev\",\"end\",null]}],\"listDefs\":{}}"
+    }
+  ]
+}
